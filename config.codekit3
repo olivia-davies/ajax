@@ -35,10 +35,24 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/docs": {
-		"ft": 65536,
+	"\/data\/data.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/data\/data.html",
+		"oF": 0
+		},
+	"\/data\/data.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/docs\/docs",
+		"oAP": "\/docs\/data\/data-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/data\/data.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/data\/data.txt",
 		"oF": 0
 		},
 	"\/fonts\/icons.eot": {
@@ -236,7 +250,7 @@
 	"displayValue": "ajax",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 515569579
+	"lastBuiltDate": 515630624
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
