@@ -3,4 +3,4 @@
 
 console.log('Hello, World!');
 
-$("#data").load('/datadata.txt');
+$("#data").load('/data/data.txt');
